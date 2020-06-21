@@ -1,4 +1,4 @@
-# Python-Sitemap
+# Python-Sitemap Raw
 
 Simple script to crawl websites and create a sitemap.xml of all public link in it.
 
